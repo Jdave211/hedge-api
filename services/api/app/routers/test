@@ -1,0 +1,444 @@
+
+{
+    "query": "cpi going up",
+    "results": [
+        {
+            "markets": [
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "e025672a-b000-4314-818e-630bce6f0ae1",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.04,
+                                "bid": 0.01,
+                                "price": 0.025,
+                                "liquidity": 2858995,
+                                "outcome_id": "e025672a-b000-4314-818e-630bce6f0ae1"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "ec11e3d3-ab0c-4577-825f-2b1d74e827c4",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.99,
+                                "bid": 0.96,
+                                "price": 0.975,
+                                "liquidity": 2858995,
+                                "outcome_id": "ec11e3d3-ab0c-4577-825f-2b1d74e827c4"
+                            }
+                        }
+                    ],
+                    "market_id": "ff254b53-12ec-4023-8435-dc5d139cadc7",
+                    "market_title": "Will CPI rise more than 0.4% in December 2025?",
+                    "external_market_id": "KXCPI-25DEC-T0.4"
+                },
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "0e9c4f38-84d8-4bbd-b67a-fd28be190f8a",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.21,
+                                "bid": 0.19,
+                                "price": 0.2,
+                                "liquidity": 6783624,
+                                "outcome_id": "0e9c4f38-84d8-4bbd-b67a-fd28be190f8a"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "863c5e67-4415-406b-a922-405aba5ac2a5",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.81,
+                                "bid": 0.79,
+                                "price": 0.8,
+                                "liquidity": 6783624,
+                                "outcome_id": "863c5e67-4415-406b-a922-405aba5ac2a5"
+                            }
+                        }
+                    ],
+                    "market_id": "9f592f3a-2532-4837-ab53-906f8be4b1a1",
+                    "market_title": "Will CPI rise more than 0.3% in December 2025?",
+                    "external_market_id": "KXCPI-25DEC-T0.3"
+                },
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "bf5b41f2-c302-4c1d-a1e3-211b5a822ae7",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.59,
+                                "bid": 0.55,
+                                "price": 0.5700000000000001,
+                                "liquidity": 4137180,
+                                "outcome_id": "bf5b41f2-c302-4c1d-a1e3-211b5a822ae7"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "169ef262-709d-42fe-b860-4296aa5b49a6",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.45,
+                                "bid": 0.41,
+                                "price": 0.43,
+                                "liquidity": 4137180,
+                                "outcome_id": "169ef262-709d-42fe-b860-4296aa5b49a6"
+                            }
+                        }
+                    ],
+                    "market_id": "4126f00d-7fd7-4302-98a5-a1752ebaedc1",
+                    "market_title": "Will CPI rise more than 0.2% in December 2025?",
+                    "external_market_id": "KXCPI-25DEC-T0.2"
+                }
+            ],
+            "event_id": "1f6929a8-b940-4c2e-9477-3c94799e07fa",
+            "similarity": 0.567755154638872,
+            "event_title": "CPI in Dec 2025?"
+        },
+        {
+            "markets": [
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "551723df-8ec5-4fb7-b43d-b71642dfd635",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.34,
+                                "bid": 0.31,
+                                "price": 0.325,
+                                "liquidity": 349733,
+                                "outcome_id": "551723df-8ec5-4fb7-b43d-b71642dfd635"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "d55989d6-b0d7-4aaf-baa6-7d8c7d6ac534",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.69,
+                                "bid": 0.66,
+                                "price": 0.675,
+                                "liquidity": 349733,
+                                "outcome_id": "d55989d6-b0d7-4aaf-baa6-7d8c7d6ac534"
+                            }
+                        }
+                    ],
+                    "market_id": "4f32977f-04e2-4044-b751-7fd42cd7cb44",
+                    "market_title": "Will egg prices rise by more than 0% in Dec 2025?",
+                    "external_market_id": "KXEGGS-DEC-0"
+                }
+            ],
+            "event_id": "3c178f7f-c34a-4888-8f10-fbeb7c3a92bd",
+            "similarity": 0.378576207799437,
+            "event_title": "Will egg prices go up in Dec 2025?"
+        },
+        {
+            "markets": [
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "2b7cbea4-2b45-4d2c-b5a8-c3673dfd63b5",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.24,
+                                "bid": 0.15,
+                                "price": 0.195,
+                                "liquidity": 94581143,
+                                "outcome_id": "2b7cbea4-2b45-4d2c-b5a8-c3673dfd63b5"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "2f4e3756-32f1-4962-a885-7f14b134a54f",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.85,
+                                "bid": 0.76,
+                                "price": 0.8049999999999999,
+                                "liquidity": 94581143,
+                                "outcome_id": "2f4e3756-32f1-4962-a885-7f14b134a54f"
+                            }
+                        }
+                    ],
+                    "market_id": "505bf720-cbe0-4abc-8691-23e664d975bb",
+                    "market_title": "Will the Federal Reserve Cut rates by 25bps at their January 2028 meeting?",
+                    "external_market_id": "KXFEDDECISION-28JAN-C25"
+                },
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "9eb43e5f-f072-412d-8fc8-9c8f5522bc79",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.09,
+                                "bid": 0.0,
+                                "price": 0.045,
+                                "liquidity": 97998392,
+                                "outcome_id": "9eb43e5f-f072-412d-8fc8-9c8f5522bc79"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "7cdced74-de40-452c-a10e-1dd1c5177748",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 1.0,
+                                "bid": 0.91,
+                                "price": 0.9550000000000001,
+                                "liquidity": 97998392,
+                                "outcome_id": "7cdced74-de40-452c-a10e-1dd1c5177748"
+                            }
+                        }
+                    ],
+                    "market_id": "2f0e3101-c7fc-4675-8bd0-f805342a0fc2",
+                    "market_title": "Will the Federal Reserve Hike rates by >25bps at their January 2028 meeting?",
+                    "external_market_id": "KXFEDDECISION-28JAN-H26"
+                },
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "29beed80-e8d9-4cb9-8325-e4eb04dc9b4c",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.09,
+                                "bid": 0.0,
+                                "price": 0.045,
+                                "liquidity": 97979186,
+                                "outcome_id": "29beed80-e8d9-4cb9-8325-e4eb04dc9b4c"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "e9a700ad-63f2-4bf6-8bd1-661f315f9a03",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 1.0,
+                                "bid": 0.91,
+                                "price": 0.9550000000000001,
+                                "liquidity": 97979186,
+                                "outcome_id": "e9a700ad-63f2-4bf6-8bd1-661f315f9a03"
+                            }
+                        }
+                    ],
+                    "market_id": "d25c5e9a-ae64-4133-99b4-5369d828c467",
+                    "market_title": "Will the Federal Reserve Hike rates by 25bps at their January 2028 meeting?",
+                    "external_market_id": "KXFEDDECISION-28JAN-H25"
+                }
+            ],
+            "event_id": "b807c6bd-49f3-42e9-9e79-8a3fb4bc451a",
+            "similarity": 0.290515903486383,
+            "event_title": "Fed decision in Jan 2028?"
+        },
+        {
+            "markets": [
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "7c46cead-3780-4f1d-87b9-284f7d396293",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 1.0,
+                                "bid": 0.01,
+                                "price": 0.505,
+                                "liquidity": -248436,
+                                "outcome_id": "7c46cead-3780-4f1d-87b9-284f7d396293"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "03fd5fa3-120b-484d-9b0f-e12b340aa5f9",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.99,
+                                "bid": 0.0,
+                                "price": 0.495,
+                                "liquidity": -248436,
+                                "outcome_id": "03fd5fa3-120b-484d-9b0f-e12b340aa5f9"
+                            }
+                        }
+                    ],
+                    "market_id": "61b100a3-f989-42c5-a79e-6fcc16965240",
+                    "market_title": "Will New York City rent grow above 2% in December 2025?",
+                    "external_market_id": "KXNYCRENTSY-25-T2"
+                },
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "315670e1-58b4-4ec7-b256-6a260ece74ee",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 1.0,
+                                "bid": 0.01,
+                                "price": 0.505,
+                                "liquidity": 194000,
+                                "outcome_id": "315670e1-58b4-4ec7-b256-6a260ece74ee"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "22b5f2a5-13f9-4c64-acbf-27b1acb5541c",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.99,
+                                "bid": 0.0,
+                                "price": 0.495,
+                                "liquidity": 194000,
+                                "outcome_id": "22b5f2a5-13f9-4c64-acbf-27b1acb5541c"
+                            }
+                        }
+                    ],
+                    "market_id": "826f92b0-84eb-46c7-97b6-7784b109bd9a",
+                    "market_title": "Will New York City rent grow above 1% in December 2025?",
+                    "external_market_id": "KXNYCRENTSY-25-T1"
+                },
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "38034260-ae62-4fa2-a92d-0c3715dcb074",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 1.0,
+                                "bid": 0.02,
+                                "price": 0.51,
+                                "liquidity": 191000,
+                                "outcome_id": "38034260-ae62-4fa2-a92d-0c3715dcb074"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "88964230-7371-4b91-a115-c767dc2a5b14",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.98,
+                                "bid": 0.0,
+                                "price": 0.49,
+                                "liquidity": 191000,
+                                "outcome_id": "88964230-7371-4b91-a115-c767dc2a5b14"
+                            }
+                        }
+                    ],
+                    "market_id": "90890a46-c0e4-4117-adad-360e86171d5e",
+                    "market_title": "Will New York City rent grow above 0% in December 2025?",
+                    "external_market_id": "KXNYCRENTSY-25-T0"
+                }
+            ],
+            "event_id": "ebf2f9fa-1285-44d7-9219-a2f428fae60c",
+            "similarity": 0.293913180361609,
+            "event_title": "How much will New York City rent grow by in 2025?"
+        },
+        {
+            "markets": [
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "d1332c3c-d025-48ab-9a12-4398532fee16",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.47,
+                                "bid": 0.43,
+                                "price": 0.44999999999999996,
+                                "liquidity": 565718,
+                                "outcome_id": "d1332c3c-d025-48ab-9a12-4398532fee16"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "ed354460-dad0-48ac-9fb5-a835b0fc9052",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.57,
+                                "bid": 0.53,
+                                "price": 0.55,
+                                "liquidity": 565718,
+                                "outcome_id": "ed354460-dad0-48ac-9fb5-a835b0fc9052"
+                            }
+                        }
+                    ],
+                    "market_id": "22d098a7-a195-49d1-b3a3-fdd7dc565df6",
+                    "market_title": "Will average **gas prices** be above $2.80?",
+                    "external_market_id": "KXAAAGASM-26JAN31-2.80"
+                },
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "7c5ef841-2c72-4519-862f-7d2b0b703dde",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.07,
+                                "bid": 0.01,
+                                "price": 0.04,
+                                "liquidity": 545977,
+                                "outcome_id": "7c5ef841-2c72-4519-862f-7d2b0b703dde"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "c28b8247-a763-4c1f-baf7-f46964658027",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.99,
+                                "bid": 0.93,
+                                "price": 0.96,
+                                "liquidity": 545977,
+                                "outcome_id": "c28b8247-a763-4c1f-baf7-f46964658027"
+                            }
+                        }
+                    ],
+                    "market_id": "fb82425e-4020-4fc5-9ded-2e1fea0ca049",
+                    "market_title": "Will average **gas prices** be above $3.30?",
+                    "external_market_id": "KXAAAGASM-26JAN31-3.30"
+                },
+                {
+                    "outcomes": [
+                        {
+                            "label": "YES",
+                            "outcome_id": "ef41ae1c-e451-43a6-bcdb-f018247c361c",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.31,
+                                "bid": 0.25,
+                                "price": 0.28,
+                                "liquidity": 938532,
+                                "outcome_id": "ef41ae1c-e451-43a6-bcdb-f018247c361c"
+                            }
+                        },
+                        {
+                            "label": "NO",
+                            "outcome_id": "013bac76-845a-4931-9371-054d1492489c",
+                            "latest_price": {
+                                "ts": "2026-01-03T22:20:15.756886+00:00",
+                                "ask": 0.75,
+                                "bid": 0.69,
+                                "price": 0.72,
+                                "liquidity": 938532,
+                                "outcome_id": "013bac76-845a-4931-9371-054d1492489c"
+                            }
+                        }
+                    ],
+                    "market_id": "26099bd9-5003-4d7d-b1a1-1c89ab47bb65",
+                    "market_title": "Will average **gas prices** be above $2.85?",
+                    "external_market_id": "KXAAAGASM-26JAN31-2.85"
+                }
+            ],
+            "event_id": "ef28d99f-d98d-4832-bc74-986323432b6c",
+            "similarity": 0.317051410675058,
+            "event_title": "Gas prices in the US in Jan 2026?"
+        }
+    ]
+}
